@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bilgeadamNewTeacher_1/Generics.iml" filepath="$PROJECT_DIR$/bilgeadamNewTeacher_1/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bilgeadamNewTeacher.iml" filepath="$PROJECT_DIR$/bilgeadamNewTeacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bilgeadamNewTeacher_1/bilgeadamNewTeacher_1.iml" filepath="$PROJECT_DIR$/bilgeadamNewTeacher_1/bilgeadamNewTeacher_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bilgeadamNewTeacher_2/bilgeadamNewTeacher_2.iml" filepath="$PROJECT_DIR$/bilgeadamNewTeacher_2/bilgeadamNewTeacher_2.iml" />
+    </modules>
+  </component>
+</project>
